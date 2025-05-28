@@ -14,16 +14,15 @@
 
 ## 📁 Estrutura
 
-| Pasta            | Descrição |
-|------------------|-----------|
-| `patterns/`       | Programas de padrões visuais com `*` e lógica básica em terminal |
-| `security/`       | Ferramentas de IP, localização, scrapers, automações de rede |
-| `automation/`     | Scripts para envio de email, agendamento WhatsApp, countdown timer |
-| `data-viz/`       | Gráficos 2D/3D, scatter, radar, gauge, pie, donut, funnel etc |
-| `pandas-numpy/`   | Exemplos práticos com `pandas`, `numpy` e análises de dados |
-| `file-utils/`     | Extração de texto de PDFs, descompactação de arquivos |
-| `bots/`           | Bots para Twitter, WhatsApp e afins |
-| `misc/`           | Scripts diversos, lambdas, len(), calendário etc |
+| Pasta                     | Descrição |
+|---------------------------|-----------|
+| 📐 `patterns/`            | Programas de padrões visuais com `*` e lógica básica em terminal |
+| 🛡️ `security/`            | Ferramentas de IP, localização, scrapers, automações de rede |
+| ⚙️ `automation/`          | Scripts para envio de email, agendamento WhatsApp, countdown timer |
+| 📈 `data-analysis/`       | Gráficos, análises com pandas, numpy, matplotlib, plotly etc |
+| 📂 `file-utils/`          | Extração de texto de PDFs, descompactação de arquivos |
+| 🤖 `bots/`                | Bots para Twitter, WhatsApp e afins |
+| 🧪 `misc/`                | Scripts diversos, lambdas, len(), calendário etc |
 
 ---
 
