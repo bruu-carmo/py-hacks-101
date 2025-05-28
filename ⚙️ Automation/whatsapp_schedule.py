@@ -3,4 +3,4 @@
 
 import pywhatkit
 
-pywhatkit.sendwhatmsg("+5541999999999", "Teeeesssteeee.....", 15, 30)
+pywhatkit.sendwhatmsg("+5541999999999", "Teeeesssteeee....", 15, 30)
