@@ -16,7 +16,6 @@
 
 | Pasta                     | Descrição |
 |---------------------------|-----------|
-<<<<<<< HEAD
 | 📐 `Patterns/`            | Programas de padrões visuais com `*` e lógica básica em terminal |
 | 🛡️ `Security/`            | Ferramentas de IP, localização, scrapers, automações de rede |
 | ⚙️ `Automation/`          | Scripts para envio de email, agendamento WhatsApp, countdown timer |
@@ -24,15 +23,6 @@
 | 📂 `File-utils/`          | Extração de texto de PDFs, descompactação de arquivos |
 | 🤖 `Bots/`                | Bots para Twitter, WhatsApp e afins |
 | 🧪 `Misc/`                | Scripts diversos, lambdas, len(), calendário etc |
-=======
-| 📐 `patterns/`            | Programas de padrões visuais com `*` e lógica básica em terminal |
-| 🛡️ `security/`            | Ferramentas de IP, localização, scrapers, automações de rede |
-| ⚙️ `automation/`          | Scripts para envio de email, agendamento WhatsApp, countdown timer |
-| 📈 `data-analysis/`       | Gráficos, análises com pandas, numpy, matplotlib, plotly etc |
-| 📂 `file-utils/`          | Extração de texto de PDFs, descompactação de arquivos |
-| 🤖 `bots/`                | Bots para Twitter, WhatsApp e afins |
-| 🧪 `misc/`                | Scripts diversos, lambdas, len(), calendário etc |
->>>>>>> origin/main
 
 ---
 
@@ -47,7 +37,7 @@ python 3.8+
 E algumas libs extras:
 
 ```bash
-pip install pandas numpy matplotlib plotly folium pyshorteners pywhatkit bs4 requests webcolors fitz
+pip install pandas numpy matplotlib plotly folium pyshorteners pywhatkit bs4 requests webcolors fitz tweepy
 ```
 
 ---
@@ -79,9 +69,4 @@ python donut_chart.py
 
 ## 💬 Licença
 
-<<<<<<< HEAD
 MIT License. 
-=======
-MIT License. 
-
->>>>>>> origin/main

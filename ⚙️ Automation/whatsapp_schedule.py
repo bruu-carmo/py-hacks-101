@@ -1,4 +1,3 @@
-# whatsapp_schedule.py
 # Envia mensagem via WhatsApp usando pywhatkit
 
 import pywhatkit
