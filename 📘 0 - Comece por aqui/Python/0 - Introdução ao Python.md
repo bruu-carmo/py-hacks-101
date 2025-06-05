@@ -170,7 +170,7 @@ Fica bem evidente que dentre as opções disponíveis no mercado, as pessoas que
 - Aprender estruturas de dados e controle
 - Avançar para automação, web ou dados
 
-> Aqui no repositório é possível encontrar alguns exemplos úteis para começar.
+> **Aqui no repositório é possível encontrar alguns exemplos úteis para começar.**
 
 ---
 
