@@ -1,3 +1,4 @@
+![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow)
 # 🐍 Introdução ao Python
 
 Python é uma linguagem de programação **interpretada, de alto nível e de propósito geral**. Ela foi criada por **Guido van Rossum** e lançada em 1991. Desde então, se tornou uma das linguagens mais populares do mundo, graças à sua **simplicidade**, **legibilidade** e **comunidade ativa**.

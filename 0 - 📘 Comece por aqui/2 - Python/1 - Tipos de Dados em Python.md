@@ -1,8 +1,17 @@
-# 🧠 Tipos de Dados em Python
+![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow)
+# 🔤 Tipos de Dados em Python
 
 Em Python, os **tipos de dados** são categorias que determinam o tipo de valor que uma variável pode armazenar e como esse valor pode ser manipulado. Eles são fundamentais para o funcionamento de qualquer programa.
 
----
+
+## 📌 O que é uma variável?
+
+Uma variável é um nome que armazena dados na memória. Você pode imaginar como uma etiqueta colada em uma caixa que contém um valor.
+
+```python
+nome = "Oswaldo"
+idade = 27
+```
 
 ## 🔢 Tipos de Dados Primitivos
 
@@ -60,7 +69,6 @@ Se pedirmos que o programa imprima o tipo das variáveis, vamos ter como retorno
 - `<class ‘complex’>`
 - `<class ‘complex’>`
 
----
 
 ### 📌 Sequências
 | Tipo     | Descrição                                        | Exemplo                     |
@@ -185,7 +193,6 @@ Vemos abaixo um exemplo de seu uso, por meio de variáveis de altura e idade, co
 - `<class ‘dict’>`
    - `<class ‘dict’>`
 
----
 
 ### 📌 Conjuntos
 | Tipo        | Descrição                                   | Exemplo                     |
@@ -235,7 +242,6 @@ Tentativa de alterar:
 
 - `conjunto_fixo.add(4)` → ❌ `AttributeError: 'frozenset' object has no attribute 'add'`
 
----
 
 ### 📌 Outros
 | Tipo        | Descrição                                  | Exemplo                    |
@@ -311,7 +317,6 @@ Verificando o tipo:
 
 Muito usado como valor padrão de variáveis ou retornos "vazios" de funções.
 
----
 
 ## 🧬 Tipos de Dados Compostos
 
@@ -330,8 +335,6 @@ exemplo = [1, "texto", [2, 3], {"a": 1}]
 - **Operações**: influenciam como o código se comporta ao somar, comparar, etc.  
 - **Manipulação**: definem quais métodos e funções podem ser aplicados.
 
----
-
 ## ✅ Exemplo prático
 
 ```python
@@ -342,12 +345,8 @@ ativo = True
 dados = {"nome": nome, "idade": idade, "altura": altura, "ativo": ativo}
 print(dados)
 ```
-
----
-
-> **Compreender os tipos de dados é essencial para programar com clareza, eficiência e sem bugs.** 🧠🔥
-
----
+ 
+> ## **Compreender os tipos de dados é essencial para programar com clareza, eficiência e sem bugs.** 🧠🔥
 
 ## 📘 Referência Final
 
@@ -361,5 +360,11 @@ Se quiser explorar mais, vale consultar:
 
 ---
 
-🧠 **Dica de ouro:** sempre que estiver em dúvida sobre o tipo de uma variável, use `print(type(sua_variavel))`. Isso salva debug e ajuda a evitar muitos bugs bobos.
+## 🧠 **Dica de ouro:** 
+Sempre que estiver em dúvida sobre o tipo de uma variável, use:
+
+ ```python
+ print(type(sua_variavel)) 
+  ```
+Isso salva debug e ajuda a evitar muitos bugs bobos.
 

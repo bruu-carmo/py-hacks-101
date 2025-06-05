@@ -15,14 +15,16 @@
 ## 📁 Estrutura
 
 | Pasta                     | Descrição |
-|---------------------------|-----------|
-| 📐 `Patterns/`            | Programas de padrões visuais com `*` e lógica básica em terminal |
-| 🛡️ `Security/`            | Ferramentas de IP, localização, scrapers, automações de rede |
-| ⚙️ `Automation/`          | Scripts para envio de email, agendamento WhatsApp, countdown timer |
-| 📈 `Data-analysis/`       | Gráficos, análises com pandas, numpy, matplotlib, plotly etc |
-| 📂 `File-utils/`          | Extração de texto de PDFs, descompactação de arquivos |
-| 🤖 `Bots/`                | Bots para Twitter, WhatsApp e afins |
-| 🧪 `Misc/`                | Scripts diversos, lambdas, len(), calendário etc |
+|------------------------------|-------------|
+| `0 - 📘 Comece por aqui/`     | Introdução à lógica de programação e Python |
+| `1 - 🌐 Desenvolvimento Web/` | Fundamentos de HTML, CSS, JS, Flask e Django |
+| `2 - 📈 Data-analysis/`       | Análises com Pandas, NumPy, Matplotlib, Plotly, Seaborn |
+| `3 - 📐 Patterns/`            | Programas de padrões visuais com `*`, lógica, laços e condicionais |
+| `4 - 🛡️ Cybersecurity/`       | Ferramentas de IP, localização, scrapers, automações de rede, OSINT |
+| `5 - ⚙️ Automation/`          | Scripts de automação: e-mails, agendamento WhatsApp, countdown timer |
+| `6 - 📂 File-utils/`          | Leitura de PDFs, extração de texto, descompactação, renomeações |
+| `7 - 🤖 Bots/`                | Bots para redes sociais, web automations, integração com APIs |
+| `8 - 🧪 Misc/`                | Scripts diversos: lambda, `len()`, calendário, formatações úteis |
 
 ---
 

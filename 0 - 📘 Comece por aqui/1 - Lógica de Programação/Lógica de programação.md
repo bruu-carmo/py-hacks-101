@@ -1,7 +1,7 @@
-
+![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow)
 # 🧠 Mini Curso 1: Lógica de Programação Descomplicada
 
-**Duração:** 4 horas  
+  
 **Nível:** Iniciante absoluto  
 **Formato:** Aula teórica com práticas interativas e projeto final
 
